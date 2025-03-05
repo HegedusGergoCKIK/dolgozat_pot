@@ -4,3 +4,6 @@ masodik
 
 harmadik
 negyedik
+f1
+f2
+otodik
