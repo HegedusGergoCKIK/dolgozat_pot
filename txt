@@ -1,0 +1,41 @@
+a: git init
+a:git remote add origin "URL"
+a:elso
+a:git add .
+a:git commit -m "elso"
+a:masdoik
+a:git add .
+a:git commit -m "masodik"
+b:git init
+b:git remote add origin "URL"
+b:git pull origin master
+b:git branch f
+b:git chekout f
+b:f1
+b:git add .
+b:git commit -m "f1"
+b:f2
+b:git add .
+b:git commit -m "f2"
+b:git push origin master
+a:git fetch
+a:git pull origin master
+a:git checkout master
+a:harmadik
+a:git add .
+a:git commit -m "harmadik"
+a:negyedik
+a:git add .
+a:git commit -m "negyedik"
+a:git push origin master
+b:git pull origin master
+b:otodik
+b:git add .
+b:git commit -m "otodik"
+b:git merge f
+b:hatodik
+b:git add .
+b:git commit -m "hatodik"
+b:git push origin master
+a:git fetch
+a:git pull origin master
